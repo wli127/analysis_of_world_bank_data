@@ -1,4 +1,4 @@
-def nth_power(high,n):
+def nth_power(high,n=2):
 	'''
 	ARGS:
 	RETURNS:
